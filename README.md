@@ -2,6 +2,10 @@
 LC_S8 is a Open Source LC meter
 can Measure Frequency, Capacitance (and ESR) and Inductance
 
+# 3D PreView
+![Alt text](Docs/3D_PreView1.JPG?raw=true "Title")
+![Alt text](Docs/3D_PreView2.JPG?raw=true "Title")
+
 # Specifications
  ## Power Supply
  - Voltage : 9-12V (9V Recommended)
